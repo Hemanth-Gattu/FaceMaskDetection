@@ -3,17 +3,26 @@
 
 _Course Instructor: Dr. Richa Singh_
 
-### Files:
+## Table of contents
+* [Files](#Files)
+* [Dataset](#Dataset)
+* [Execution](#Execution)
+* [Classifiers Used](#Classifiers)
+* [Structure of code](#Structure)
+* [Contributors](#Contributors)
+
+
+## Files:
 [![Report](https://img.shields.io/badge/Report-Pdf-blue)](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/face%20mask%20detection%20report.pdf)
 [![ColabFile](https://img.shields.io/badge/ColabFile-.ipynb-orange)](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/PRML_Minor_Project.ipynb)
 
-### Dataset:
+## Dataset:
 
 [![Dataset](https://img.shields.io/badge/Real_World_Masked_Face_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/19x7iw9FP4Se8_nSrH76I9MqmE1oKbQju/view)
 [![Dataset](https://img.shields.io/badge/Selfbuilt_Masked_Face_Recognition_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/1EG_A3kRwaPn15AFUGmEaQXatKZNXrWxH/view)
 
 
-### Process of execution:
+## Execution:
 
 * Download the colabfile from the above badge or from repo.
 * Open google colaboratory on any web browser.
@@ -22,14 +31,14 @@ _Course Instructor: Dr. Richa Singh_
 * You can see all the code in blocks and their results
 * If you want to re-run the code then press ctrl+enter to run a particular block or go to runtime and run all cells to run the whole colab notebook at once.
 
-### Classifiers Used: 
+## Classifiers Used: 
 * Support Vector Machine
 * Convolutional Neural Network
 * K-Nearest Neighbour
 * Multy Layer Perceptron
 * Feature reduction- LDA.
 
-### Structure of code
+## Structure
 * Loading the data
 * Preparation of Data
 * Data Visualization
