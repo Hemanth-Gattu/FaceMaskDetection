@@ -23,7 +23,7 @@ _Course Instructor: Dr. Richa Singh_
 * Support Vector Machine
 * Convolutional Neural Network
 * K-Nearest Neighbour
-* MLP
+* Multy Layer Perceptron
 * Feature reduction- LDA.
 
 ### Structure of code
