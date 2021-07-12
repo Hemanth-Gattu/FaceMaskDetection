@@ -31,7 +31,7 @@ _Course Instructor: Dr. Richa Singh_
 * You can see all the code in blocks and their results
 * If you want to re-run the code then press ctrl+enter to run a particular block or go to runtime and run all cells to run the whole colab notebook at once.
 
-## Classifiers Used: 
+## Classifiers: 
 * Support Vector Machine
 * Convolutional Neural Network
 * K-Nearest Neighbour
