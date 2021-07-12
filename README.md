@@ -6,6 +6,9 @@ _Course Instructor: Dr. Richa Singh_
 
 [![Report](https://img.shields.io/badge/Report-Pdf-blue)](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/face%20mask%20detection%20report.pdf)
 [![ColabFile](https://img.shields.io/badge/ColabFile-.ipynb-orange)](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/PRML_Minor_Project.ipynb)
+[![Dataset](https://img.shields.io/badge/Real_World_Masked_Face_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/19x7iw9FP4Se8_nSrH76I9MqmE1oKbQju/view)
+[![Dataset](https://img.shields.io/badge/Selfbuilt_Masked_Face_Recognition_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/1EG_A3kRwaPn15AFUGmEaQXatKZNXrWxH/view)
+
 
 ### Process of execution:
 
