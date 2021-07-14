@@ -21,6 +21,11 @@ _Course Instructor: Dr. Richa Singh_
 [![Dataset](https://img.shields.io/badge/Real_World_Masked_Face_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/19x7iw9FP4Se8_nSrH76I9MqmE1oKbQju/view)
 [![Dataset](https://img.shields.io/badge/Selfbuilt_Masked_Face_Recognition_Dataset-.zip-yellowgreen)](https://drive.google.com/file/d/1EG_A3kRwaPn15AFUGmEaQXatKZNXrWxH/view)
 
+### Samples:
+
+![Masked](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/Masked%20Examples.png)
+![No Mask](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/No%20mask%20examples.png)
+
 
 ## Execution:
 
@@ -48,6 +53,9 @@ _Course Instructor: Dr. Richa Singh_
 * We used different methods to increase the accuracy of the classifiers by using grid search over different parameters to find the best parameter and trained the models using those.
 * Tested the models
 * Comparison between the models mentioned above.
+
+## Testing:
+![No Mask](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/Predictions.png)
 
 
 
