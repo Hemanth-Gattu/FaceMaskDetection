@@ -54,7 +54,7 @@ _Course Instructor: Dr. Richa Singh_
 * Comparison between the models mentioned above.
 
 ## Testing:
-![No Mask](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/Predictions.png)
+![No Mask](https://github.com/Hemanth-Gattu/FaceMaskDetection/blob/main/predictions.png)
 
 
 
